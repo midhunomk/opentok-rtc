@@ -11,7 +11,7 @@
    "Archiving":{
       "enabled":true,
       "archiveManager":{
-         "enabled":false
+         "enabled":true
       }
    },
    "Feedback":{
@@ -19,7 +19,7 @@
      "reportIssueLevel": 0
    },
    "Screensharing":{
-      "enabled":false,
+      "enabled":true,
       "chromeExtensionId":null,
       "annotations":{
          "enabled":true
