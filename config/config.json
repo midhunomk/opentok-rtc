@@ -1,0 +1,41 @@
+{
+   "showTos": false,
+   "OpenTok":{
+      "apiKey": "46574382",
+      "apiSecret": "208f7bfedc64c8058df5085eb34ce91525cc22be",
+      "jsUrl": "https://static.opentok.com/v2/js/opentok.min.js",
+  "maxSessionAge": 2
+   },
+   "Firebase":{
+      "dataUrl":"https://smecenable.firebaseio.com",
+      "authSecret":"jjLcQx7FLfCU5BUUigeydeFbwg8b7IJ9ubrh5NtZ"
+   },
+   "Archiving":{
+      "enabled":true,
+      "archiveManager":{
+         "enabled":true
+      }
+   },
+   "Feedback":{
+     "url": "",
+     "reportIssueLevel": 0
+   },
+   "Screensharing":{
+      "enabled":true,
+      "chromeExtensionId":null,
+      "annotations":{
+         "enabled":true
+      }
+   },
+   "SIP": {
+     "enabled": false,
+     "username": "nexmoApiKey",
+     "password": "nexmoApiSecret"
+   },
+  "Google": {
+    "clientId": "yourClientId.apps.googleusercontent.com",
+    "hostedDomain": "yourhosteddomain.com"
+  },
+  "useGoogleFonts": true,
+  "jqueryUrl": "https://ajax.googleapis.com/ajax/libs/jquery"
+}
