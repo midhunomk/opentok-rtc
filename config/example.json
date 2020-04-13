@@ -31,8 +31,8 @@
      "password": "nexmoApiSecret"
    },
   "Google": {
-    "clientId": "yourClientId.apps.googleusercontent.com",
-    "hostedDomain": "yourhosteddomain.com"
+    "clientId": " 353281471407-9quov4p46sqoh3fodarjbve1hidrkas4.apps.googleusercontent.com",
+    "hostedDomain": "smec.online"
   },
   "useGoogleFonts": true,
   "jqueryUrl": "https://ajax.googleapis.com/ajax/libs/jquery"
