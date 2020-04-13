@@ -2,7 +2,9 @@
    "showTos": false,
    "OpenTok":{
       "apiKey": "<key>",
-      "apiSecret": "<secret>"
+      "apiSecret": "<secret>",
+      "jsUrl": "https://static.opentok.com/v2/js/opentok.min.js",
+  "maxSessionAge": 2
    },
    "Firebase":{
       "dataUrl":"<firebase_url>",
